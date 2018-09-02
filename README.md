@@ -1,2 +1,11 @@
-# Deep_CCA
-A Deep CCA program written by a plain numpy and scipy library
+# DCCA: Deep Canonical Correlation Analysis
+
+An implementation of Deep Canonical Correlation Analysis (DCCA or Deep CCA) in Python with plain library like numpy and scipy need installed.
+
+DCCA is a method to learn com-plex nonlinear transformations of two views of data such that the resulting representations are highly linearly correlated.
+
+DCCA is originally proposed in the paper: Andrew G, Arora R, Bilmes J, et al. Deep canonical correlation analysis[C]//International Conference on Machine Learning. 2013: 1247-1255.
+
+Many followers use this idea for many fields like following paper for matching images and text:
+Yan F, Mikolajczyk K. Deep correlation for matching images and text[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3441-3450. 
+
